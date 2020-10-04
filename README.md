@@ -15,5 +15,5 @@ fanfiction of the same name.
 
 This is my first project. This is project of childy.
 I start this is when I was 15 years old, 
-and when I ended this is, I decided teach CS. 
+and when I ended this is, I decided learn CS. 
 Thanks this is little project for this.
